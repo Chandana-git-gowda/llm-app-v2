@@ -2,3 +2,4 @@ anthropic
 flask
 gunicorn
 pytest
+pandas
