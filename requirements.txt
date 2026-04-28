@@ -1,1 +1,4 @@
-
+anthropic
+flask
+gunicorn
+pytest
